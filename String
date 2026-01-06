@@ -1,0 +1,7 @@
+python_course_description = """
+This Python course is designed for beginners and intermediate learners.
+It covers core concepts such as variables, data types, loops, functions,
+and object-oriented programming. By the end of the course, learners will
+be able to build simple applications and understand real-world Python usage.
+"""
+print(python_course_description)
